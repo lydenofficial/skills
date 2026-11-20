@@ -1,0 +1,6 @@
+name: cdp_liquidation_fuzz
+title: CDP Liquidation Fuzz
+description: >-
+  Fuzz MakerDAO-style CDP liquidation (Vat/Clip/Dog/Spot, Dutch auctions) with stateful invariant testing (Echidna/Medusa/Foundry). Use when auditing or hunting CDP/lending protocols (Maker, Spark, Lista, forks) where liquidations, auctions, or collateral accounting are in scope.
+category: Work and knowledge
+include_in_prompt: true

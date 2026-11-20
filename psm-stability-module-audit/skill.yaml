@@ -1,0 +1,6 @@
+name: psm_stability_module_audit
+title: PSM Stability Module Audit
+description: >-
+  Audit MakerDAO-style Peg Stability Modules (PSM / PSM3) — 1:1 mint/redeem, tin/tout fees, debt ceiling, gem joins, depeg exposure, and admin roles. Use when auditing PSM contracts (Maker, Spark PSM3, forks) or hunting stablecoin-peg scope.
+category: Work and knowledge
+include_in_prompt: true

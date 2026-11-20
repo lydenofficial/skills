@@ -1,0 +1,6 @@
+name: optimism
+title: OP Stack and Base Bedrock Reference
+description: >-
+  OP Stack protocol reference for auditing Base and Optimism bedrock: derivation, bridges and messaging, deposits and withdrawals, predeploys and precompiles, fault proofs and dispute games, batcher and SystemConfig, OptimismPortal. Generated from the official ethereum-optimism specs. Use when auditing Base/OP Stack bedrock components, bridge and withdrawal flows, fault-proof and dispute-game contracts, or reasoning about L2 derivation and finality. Source: hairyf/blockchain-skills@optimism (MIT).
+category: Work and knowledge
+include_in_prompt: true

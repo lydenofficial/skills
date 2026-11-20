@@ -1,0 +1,6 @@
+name: gyro_eclp_math_audit
+title: Gyro E-CLP Math Audit
+description: >-
+  Audit Gyro E-CLP (elliptic concentrated liquidity pool) math on Balancer — ellipse invariant, derived parameters, swap quadratic, rounding, and liquidity bounds. Use when auditing Gyro E-CLP pools (Balancer V3 GyroECLPPool / GyroECLPMath) or hunting Balancer Gyro scope.
+category: Work and knowledge
+include_in_prompt: true

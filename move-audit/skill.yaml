@@ -1,0 +1,13 @@
+name: move_audit
+title: Move Audit
+description: Guides authorized security auditing of Move smart contracts on Sui and Aptos for bug-bounty and
+  client-audit engagements. It covers what Move's resource model guarantees and what it does NOT
+  (authorization, logic/invariant, object-ownership, capability, visibility bugs), hunting the Move
+  vulnerability classes, running the `move test` / Move Prover tooling, proving each finding with a
+  `#[test_only]` PoC or a Prover `spec`, and reporting impact-first with funds at risk quantified.
+  Use it when the user says "audit this Move contract", "review this Sui/Aptos Move module", "check
+  my Move package for bugs", "Sui object-model security", "capability/visibility review", or points
+  at a Move Immunefi scope. Auditing source is static/passive; PoCs run via `move test` / testnet
+  only.
+category: Work and knowledge
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "anti-ai-slop-writing"
+title: "Anti-AI-Slop Writing"
+description: "Produces human-sounding text that avoids detectable AI writing patterns. Enforces banned vocabulary, structural variety, punctuation discipline, accuracy rules, and voice calibration. Use when writing anything that must not read as AI-generated."
+category: "Work and knowledge"
+include_in_prompt: true

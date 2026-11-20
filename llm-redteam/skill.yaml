@@ -1,0 +1,10 @@
+name: llm_redteam
+title: LLM Redteam
+description: LLM application red-teaming — prompt injection (direct + indirect), jailbreak,
+  system-prompt leak, data exfiltration, guardrail bypass, multi-turn crescendo, cross-lingual
+  + cipher + invisible-unicode token smuggling, excessive agency / tool abuse, insecure
+  output handling. Canonical OWASP LLM Top 10 + ASI01-ASI10 mapping. Use when a target
+  exposes a chat/completions/assistant/copilot endpoint, an AI feature that consumes
+  user text or documents, or any /v1/chat, /api/chat, /mcp surface.
+category: Work and knowledge
+include_in_prompt: true

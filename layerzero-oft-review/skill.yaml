@@ -1,0 +1,6 @@
+name: layerzero_oft_review
+title: LayerZero OFT Security Review
+description: >-
+  Security review checklist for LayerZero v2 OFT / OFT Adapter and OApp configuration: DVN stack and quorum, send/receive library, Executor, enforced options, peers, rate limit, blocklist, escrow supply reconciliation, lzReceive/lzCompose access control, admin/delegate, upgradeability, single lockbox and decimals consistency. Verify via on-chain view functions, never trust frontend/docs alone. Use when auditing a LayerZero bridge, OFT token such as USDT0, OApp config, ULN/DVN configuration, or cross-chain token supply reconciliation. Source: ashl3333/layerzero-oft-review (MIT).
+category: Work and knowledge
+include_in_prompt: true

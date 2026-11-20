@@ -1,0 +1,9 @@
+name: cross_chain_clustering_techniques_agent
+title: Cross-Chain Clustering Techniques Agent
+description: Guides multi-chain wallet and entity clustering using public bridge traces, wrapped-asset flows,
+  temporal and behavioral heuristics, unified graphs with chain-prefixed addresses, and confidence
+  scoring. Use when the user asks for cross-chain clustering, bridge hop analysis, multichain scam
+  or phishing infrastructure mapping, laundering-pattern education from observable flows, or
+  Arkham/Nansen-style entity graphs—without claiming ground-truth identity from heuristics alone.
+category: Work and knowledge
+include_in_prompt: true

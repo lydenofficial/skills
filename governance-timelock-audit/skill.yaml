@@ -1,0 +1,13 @@
+name: governance_timelock_audit
+title: Governance Timelock Audit
+description: >-
+  Audit DAO governance and timelock systems for security vulnerabilities: flash-loan voting
+  and proposal creation, proposal execution front-running and ordering, CREATE/CREATE2 contract
+  substitution, quorum manipulation (percentage vs absolute, abstain counting, stale totalPower),
+  timelock bypass via emergency functions, too-short timelock delay, circular timelock admin,
+  Gnosis Safe module/guard bypass, multisig threshold failures, vote buying via DeFi composability,
+  and reward distribution flaws. Load when auditing any governance system, Governor/TimelockController,
+  Compound Bravo, DAO treasury, multisig, or proposal execution flow. Source:
+  austintgriffith/evm-audit-skills@evm-audit-governance (MIT).
+category: Work and knowledge
+include_in_prompt: true

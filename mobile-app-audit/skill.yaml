@@ -1,0 +1,14 @@
+name: mobile_app_audit
+title: Mobile App Audit (MASVS)
+description: >-
+  Audit iOS and Android mobile applications against OWASP MASVS / MASTG — insecure storage
+  (keychain/keystore classes, allowBackup, clipboard, FLAG_SECURE), weak crypto (AES-ECB,
+  hardcoded keys, IV reuse, PBKDF2 iterations), network (ATS, network_security_config,
+  certificate pinning with backup pin), authentication and session (biometric bound to
+  keystore, refresh-token flow, platform browser OAuth), platform interaction (exported
+  components, content providers, app groups, keychain groups), code quality (PIE/canaries,
+  stripped symbols, debug builds), and resilience — with a validated findings.json record
+  workflow. Static MASVS audit angle, distinct from the runtime-first bug-hunting of
+  mobile-pentest. Source: briiirussell/cybersecurity-skills@mobile-audit (MIT).
+category: Work and knowledge
+include_in_prompt: true

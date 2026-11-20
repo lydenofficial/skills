@@ -1,0 +1,6 @@
+name: reclamm_pool_audit
+title: ReClamm Pool Audit
+description: >-
+  Audit Balancer ReClamm (AutoRange / reclaiming AMM) pools — virtual balances, centeredness, daily price-shift exponent, price-ratio updates, and proportional-only liquidity. Use when auditing ReClamm pools (Balancer V3, Bush) or hunting Balancer AutoRange scope.
+category: Work and knowledge
+include_in_prompt: true

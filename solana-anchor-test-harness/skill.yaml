@@ -1,0 +1,10 @@
+name: solana_anchor_test_harness
+title: Solana Anchor Test Harness
+description: >-
+  Solana Anchor program testing for security PoC — local testing with Surfpool, LiteSVM, and Mollusk,
+  fuzz testing (Trident, cargo-fuzz), Anchor program structure, and security review. Use when writing a
+  proof-of-concept for a Solana/Anchor vulnerability (e.g. Orca Whirlpools) with LiteSVM or Mollusk unit
+  tests, or when testing an Anchor program locally before claiming a finding. Source: solana-foundation/solana-dev-skill@solana-dev
+  (official Solana Foundation skill, MIT).
+category: Work and knowledge
+include_in_prompt: true

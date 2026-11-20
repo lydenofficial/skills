@@ -1,0 +1,5 @@
+name: "on_chain_safety_rails"
+title: "On-Chain Safety Rails"
+description: "Apply always-on safety rails for on-chain wallet operations, including secrets, simulation, confirmation, approvals, and fail-closed handling."
+category: "Work and knowledge"
+include_in_prompt: true

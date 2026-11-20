@@ -1,0 +1,15 @@
+name: fast_free_mint_claim
+title: Fast Free Mint & Claim
+description: >-
+  Mint NFT gratis dan klaim token/koin secara bersamaan dengan kecepatan
+  tinggi dan anti lemot, lewat Agentic Wallet (contract-call preview + execute).
+  Paralel di semua tahap (cek ketersediaan, preview, submit), preflight sekali di
+  awal (wallet, Developer Mode, sesi, saldo gas, antrean pending, gas price),
+  dan speed-up bila transaksi macet. Simulasi wajib, satu konfirmasi Ya/Tidak
+  mencakup mint + claim + auto-revoke bila ada approval yang dibuat, dan
+  revoke approval otomatis setelah selesai bila ada approval yang dibuat. Use when the user asks for free mint NFT, claim token/coin, mint and
+  claim together, fast minting, or anti-lag mint/claim. Kata kunci: free mint,
+  mint gratis, klaim token, claim token, klaim koin, mint dan claim bersamaan,
+  cepat, anti lemot.
+category: Work and knowledge
+include_in_prompt: true

@@ -1,0 +1,9 @@
+name: security_arsenal
+title: Security Arsenal
+description: Security payloads, bypass tables, wordlists, gf pattern names, always-rejected
+  bug list, and conditionally-valid-with-chain table. Use when you need specific payloads
+  for XSS/SSRF/SQLi/XXE/NoSQLi/command injection/SSTI/IDOR/path-traversal/HTTP smuggling/WebSocket/MFA
+  bypass, bypass techniques, or to check if a finding is submittable. Also use when
+  asked about what NOT to submit.
+category: Work and knowledge
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "fastmint-fcfs"
+title: "Fast FCFS Mint — Binance Agentic Wallet on BSC"
+description: "Fire a free or paid first-come-first-served mint, claim, or share sale the moment it opens from the Binance Agentic Wallet (baw) on BSC: fast recon (site + ABI + start time + price), 120ms polling across 6 RPCs, one broadcast only with a lock file, and full logging. Use when the user says a free mint at a set time, FCFS, or wants a mint fired the moment it opens. Speed is process speed, not a slot guarantee."
+category: "Work and knowledge"
+include_in_prompt: true

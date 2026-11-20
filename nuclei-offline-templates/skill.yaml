@@ -1,0 +1,11 @@
+name: nuclei_offline_templates
+title: Nuclei Offline Templates
+description: >-
+  Write custom Nuclei templates to codify a finding into a repeatable, mass-scannable check
+  and run them offline from a local template directory (no template update / no network):
+  capture the minimal repro, write id/info/http/matchers YAML, reduce false positives with
+  a vuln-unique signal, validate against known-vuln and known-good hosts, then scale across
+  live hosts. Use when turning a manual bug into automation, checking a CVE across many
+  hosts, or regression-scanning. Source: noorqureshi/security-skills@automation-nuclei-templates (MIT).
+category: Work and knowledge
+include_in_prompt: true

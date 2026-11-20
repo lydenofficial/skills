@@ -1,0 +1,22 @@
+name: bounty_program_eligibility
+title: Bounty Program Eligibility Check
+description: Verify a bug bounty program is free to submit and open to a new account before hunting it.
+category: Work and knowledge
+include_in_prompt: true
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - auto-bounty-discovery
+  - ~/workspace/bug-bounty-campaign/new-programs-hunt-report-batch5d.md
+  - ~/workspace/bug-bounty-campaign/new-programs-hunt-report-batch5f.md
+  - ~/workspace/bug-bounty-campaign/new-programs-hunt-report-batch4b.md
+  measurement:
+    proxy_metric_id: objective_success_rate
+    success_criterion: In the next 30 days no hunted program is later corrected from free to paid or reputation gated, and every hunt report records a live fee and gate check from the hunt day.
+    window_days: 30
+  needs_review: false
+  rationale: 'Eight HackenProof programs were first claimed free and later corrected to paid or gated (NEAR 10 dollars, Citrea 5, Sui 20, NEAR Intents Bridges 5, NEAR Intents Smart Contracts 5, Aurora 5, NEAR Smart Contracts 5, Quantova 5 plus reputation 150), and batch 4b added Raydium 75, Ankr 25, Kiln V2 30, Kiln OmniVault 30, Gnosis 25, and Origin 25, all removed after live checks. The root cause was method, not a single page: fetched text strips the HackenProof Program info and requirements block, and discovery relied on stale snapshots. Neither bug-bounty nor bb-methodology covers fee and gate verification before hunting, as read in their current SKILL.md files, so a distinct pre-hunt eligibility skill is the fix.'
+  review_after: 2026-12-19T05:25:27.618886+00:00
+  reviewed_at: 2026-11-19T05:25:27.618886+00:00
+  run_id: sirun_d6d4925ee87c4b1c90fdacdff049ca53

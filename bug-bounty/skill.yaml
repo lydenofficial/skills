@@ -1,0 +1,12 @@
+name: bug_bounty
+title: Agentic Bug Hunter
+description: Complete bug bounty workflow — recon, pre-hunt learning, vulnerability
+  hunting (IDOR, SSRF, XSS, auth bypass, CSRF, race conditions, SQLi, XXE, file upload,
+  business logic, GraphQL, HTTP smuggling, cache poisoning, OAuth, OIDC, SSTI, subdomain
+  takeover, cloud misconfig, ATO chains, agentic AI), LLM/AI security testing (ASI01-ASI10),
+  A-to-B bug chaining, bypass tables, language-specific grep patterns, and reporting
+  (8-Question Gate, 4 validation gates, CVSS 3.1, PoC generation, submission checklist).
+  Use for ANY bug bounty task — recon, hunting specific vulns, auditing source code,
+  testing AI features, validating findings, or writing reports.
+category: Work and knowledge
+include_in_prompt: true

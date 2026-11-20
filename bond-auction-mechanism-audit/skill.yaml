@@ -1,0 +1,6 @@
+name: bond_auction_mechanism_audit
+title: Bond Auction Mechanism Audit
+description: >-
+  Audit Olympus-style bond auctions — price discovery, discount/control variable, capacity, vesting, and front-running. Use when auditing bond/bonding mechanisms (Olympus BondDepository/Auctioneer, forks) or hunting Olympus scope.
+category: Work and knowledge
+include_in_prompt: true

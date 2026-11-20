@@ -1,0 +1,12 @@
+name: evm_rpc_dos_probing
+title: EVM RPC DoS Probing
+description: >-
+  Probe an EVM JSON-RPC endpoint for denial-of-service weaknesses — missing or weak rate limits,
+  expensive methods with no caps (eth_getLogs wide ranges, eth_call, debug_traceTransaction,
+  trace_filter, eth_feeHistory), batch-request bypasses, and WebSocket subscription exhaustion.
+  Fingerprints exposed namespaces, measures rate limits stepwise, proves resource exhaustion with
+  latency/throughput numbers, and validates with a cooldown re-test. Use only on in-scope RPC
+  endpoints, read-only methods, gentle stepwise load, never to sustain an outage. Custom skill
+  (authored for this setup).
+category: Work and knowledge
+include_in_prompt: true

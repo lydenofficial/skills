@@ -1,0 +1,12 @@
+name: webauthn_passkey_deep_audit
+title: WebAuthn / Passkey Deep Audit
+description: >-
+  Audit the server side of WebAuthn/passkey ceremonies for verification bugs that let an
+  attacker-shaped response become an authenticated session: challenge binding (server-issued,
+  single-use), exact origin and relying-party identifier checks, user-verification flag and
+  attestation enforcement, credential-to-user binding confusion, and signature-counter
+  regression hiding a cloned authenticator. Use when reviewing code that verifies a
+  registration or authentication ceremony and establishes identity from the result. Source:
+  unboundcompute/security-agent-skills@auditing-webauthn-and-passkey-flows (MIT).
+category: Work and knowledge
+include_in_prompt: true

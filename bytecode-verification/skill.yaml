@@ -1,0 +1,11 @@
+name: bytecode_verification
+title: Bytecode Verification (EVM + Solana)
+description: >-
+  Verify deployed on-chain code matches its published source via reproducible rebuild — EVM
+  (eth_getCode / creation bytecode vs solc recompilation with exact version and settings, Sourcify
+  perfect/partial match, metadata-hash handling, proxy implementation checks) and Solana (program
+  dump vs deterministic anchor/solana-verify rebuild, sha256 comparison, upgrade-authority check).
+  Use before auditing any deployed contract or program, when a verification badge looks suspicious,
+  or when comparing a deployment against its repo. Custom skill (authored for this setup).
+category: Work and knowledge
+include_in_prompt: true

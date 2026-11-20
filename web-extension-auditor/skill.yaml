@@ -1,0 +1,5 @@
+name: web_extension_auditor
+title: Web Extension Auditor
+description: Audit Chrome or Firefox WebExtensions for manifest compatibility, permission scope, CSP, content-script isolation, service-worker lifecycle, storage, bundle size, and store readiness. Use for an explicit extension audit or review, not ordinary extension implementation.
+category: Work and knowledge
+include_in_prompt: true

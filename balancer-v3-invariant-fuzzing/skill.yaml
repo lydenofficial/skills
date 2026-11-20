@@ -1,0 +1,6 @@
+name: balancer_v3_invariant_fuzzing
+title: Balancer V3 Invariant Fuzzing
+description: >-
+  Stateful invariant fuzzing of Balancer V3 — single Vault accounting, pool math, hooks, ERC4626 buffers, and BPT — with Echidna/Medusa/Foundry. Use when hunting Balancer V3 scope (Vault, pools, hooks, buffers) or auditing any Balancer V3 fork.
+category: Work and knowledge
+include_in_prompt: true

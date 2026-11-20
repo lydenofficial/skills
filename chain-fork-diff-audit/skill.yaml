@@ -1,0 +1,11 @@
+name: chain_fork_diff_audit
+title: Chain Fork Diff Audit
+description: >-
+  Audit a blockchain client fork by diffing it against upstream — Cosmos SDK forks (Sei, Cronos,
+  Osmosis) vs cosmos/cosmos-sdk, and go-ethereum forks (BSC, Cronos EVM, any EVM chain client) vs
+  ethereum/go-ethereum. Pins the upstream version, triages the delta by risk area (consensus, crypto,
+  removed checks, constants, P2P, RPC, storage), and checks for missing upstream security patches
+  (unpatched upstream CVEs live in the fork are the highest-yield findings). Use when auditing a
+  forked chain client or a chain upgrade delta. Custom skill (authored for this setup).
+category: Work and knowledge
+include_in_prompt: true

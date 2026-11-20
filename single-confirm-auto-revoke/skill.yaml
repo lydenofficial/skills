@@ -1,0 +1,5 @@
+name: "single_confirm_auto_revoke"
+title: "Single Confirm Auto Revoke"
+description: "Require one mandatory confirmation per wallet activity (Yes=execute, No=cancel). After an activity that creates an approval, automatically revoke that approval. Clean up the wallet when dangerous approvals are found."
+category: "Work and knowledge"
+include_in_prompt: true

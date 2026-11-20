@@ -1,0 +1,19 @@
+name: omni_killchain
+title: Omni Killchain
+description: 'Elite end-to-end offensive bug-bounty hunting orchestrator. ALWAYS activate
+  for: full-scope recon, killchain, bug hunting strategy, target triage, attack surface
+  mapping, "find me a bug", "hunt on $target", high-payout vuln hunting, P1/P2 bug
+  discovery, $10K+ bounty hunting, account takeover (ATO), authentication bypass,
+  IDOR/BOLA, SSRF→cloud-metadata, RCE chains, file upload to RCE, dependency confusion,
+  request smuggling, cache poisoning, OAuth/SAML/JWT abuse, GraphQL abuse, exposed
+  services (Jenkins/Kubernetes/Spring/Actuator), secrets leaks (GitHub/Postman), subdomain
+  takeover, race conditions, web cache deception, XXE chains, unsafe deserialization,
+  SSTI, prototype pollution, mass assignment, CORS abuse, postMessage abuse, business
+  logic, privilege escalation, chaining low → critical, exploit PoC writing, HackerOne/Bugcrowd/Intigriti
+  report writing. Built from analysis of HackerOne TOP100PAID, TOP100UPVOTED, TOPRCE,
+  TOPSSRF, TOPUPLOAD, TOPOAUTH, TOPOPENID, TOPINFODISCLOSURE, TOPXXE plus Awesome-Bugbounty-Writeups.
+  Routes to specialist hunters (sqli, xss, blf, js-recon, prompt-injection) when applicable.
+  Authorized testing only — bug bounty in-scope, pentest engagement, or CTF. Token-efficient.
+  Never assumes — always verifies. 20+ year red-team mindset.'
+category: Work and knowledge
+include_in_prompt: true

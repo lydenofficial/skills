@@ -1,0 +1,6 @@
+name: auditing_cross_chain_bridge_and_message_trust
+title: Cross-Chain Bridge and Message Trust Audit
+description: >-
+  Audit a cross-chain bridge or messaging protocol for misplaced trust in cross-chain messages: forged or unverified source-event proofs, spoofable or too-small signer sets and validator quorums, replayable messages on the destination or across chains, and lock-and-mint or burn-and-release accounting pushed out of balance. Use when a destination-chain mint, release, or call depends on trusting a source-chain event. Source: unboundcompute/security-agent-skills (MIT).
+category: Work and knowledge
+include_in_prompt: true

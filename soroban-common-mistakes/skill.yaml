@@ -1,0 +1,6 @@
+name: soroban_common_mistakes
+title: Soroban Common Mistakes Review
+description: >-
+  Review Stellar Soroban (Rust) smart contracts for common security mistakes: missing require_auth, reinitialization, wrong storage type and missing TTL extension, unchecked arithmetic, rounding errors, missing state deduction, arbitrary contract calls, unvalidated cross-contract returns, Stellar Asset Contract clawback and trustline assumptions, frontrunning and slippage, panics, unsafe unwraps, missing events and tests. 23 rules in 5 categories with a structured report format. Use when auditing or reviewing Soroban/Stellar contracts. Source: mariaelisaaraya/stellar-security-guide@soroban-common-mistakes (MIT).
+category: Work and knowledge
+include_in_prompt: true

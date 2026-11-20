@@ -1,0 +1,16 @@
+name: pii_hunter
+title: PII Hunter
+description: 'Elite PII (Personally Identifiable Information) leak hunting skill for
+  authorized bug bounty and pentests. ALWAYS activate for: mass PII exposure, data
+  breach vectors, GDPR-reportable leaks, user data enumeration, unauth/cross-tenant
+  PII read, API over-fetching, export/download PII bugs, search/autocomplete PII leaks,
+  open datastores with user data, log/debug endpoints with PII, cache-based PII leaks,
+  notification/webhook PII leaks, third-party analytics leaking PII, PDF/invoice generation
+  exposing other users'' data, "find PII leaks on target", "check for data exposure",
+  "test for user data leaks", "GDPR bug", "privacy bug". Runs full PII kill chain:
+  surface map → PII vector taxonomy → passive discovery → active probe → cross-tenant
+  confirm → scale → validate → report. Includes separate 10-gate PII validation pipeline.
+  Authorized testing only. Exfil cap: 1 record + count metadata. No bulk data extraction
+  ever.'
+category: Work and knowledge
+include_in_prompt: true

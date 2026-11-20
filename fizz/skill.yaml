@@ -1,0 +1,6 @@
+name: fizz
+title: Fizz — Invariant Fuzz Suite Generator
+description: >-
+  Generate stateful Solidity invariant fuzz suites from Foundry or Hardhat projects for Echidna and Medusa: extract ABIs, pick entry points, generate handlers and properties, run coverage cycles and fuzz campaigns, sync on drift. Use for invariant testing of bridge lock/mint and burn/release accounting, token supply invariants, and any Solidity protocol property. Includes fizz-sync and fizz-convert sub-skills. Source: pashov/skills@fizz (MIT).
+category: Work and knowledge
+include_in_prompt: true

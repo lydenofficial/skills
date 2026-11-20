@@ -1,0 +1,6 @@
+name: ton_auditor
+title: TON Smart Contract Security Audit
+description: >-
+  Parallelized security audit of TON/FunC/Tact smart contracts: 8 specialist agents covering attack vectors, math precision, access control, economic security, execution trace, invariants, periphery, and first principles, plus an optional deep TON protocol analysis mode. Covers jetton handling, wallet contracts, bounce handlers, and gas forwarding. Use when auditing TON FunC or Tact contracts, jetton implementations, or TON wallets. Source: sanbir/ton-auditor-skills@ton-auditor v4 (MIT). Adapted locally: remote version check removed, fully offline.
+category: Work and knowledge
+include_in_prompt: true

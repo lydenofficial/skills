@@ -1,0 +1,12 @@
+name: certora-formal-verification-review
+title: Certora Formal Verification Review
+description: >-
+  Certora formal verification with CVL — write mathematical proofs for smart contract correctness:
+  rules, invariants, ghost variables, hooks, parametric rules, multi-contract verification, and
+  counter-example debugging. Covers the CVL vs Solidity distinction, CERTORAKEY setup, certoraRun
+  CLI, rule sanity (vacuous rules), satisfy vs assert, loop bounds, mathint, and invariant induction.
+  Use when reviewing or writing Certora specs for a target, when a program's audit reports include
+  Certora findings to reproduce or extend, or when a formal property needs proving rather than
+  fuzzing. Source: andresdefi/cryptoskills@certora v1.0 (Apache-2.0).
+category: Work and knowledge
+include_in_prompt: true

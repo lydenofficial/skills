@@ -1,0 +1,12 @@
+name: mcp_client_probing
+title: MCP Client Probing
+description: >-
+  Red-team the tool layer of an AI agent from the client side: tool discovery (read every
+  tool definition as the model sees it), prompt injection via tool descriptions (tool
+  poisoning, line jumping), tool shadowing and name collisions, rug-pull mutable
+  definitions, token/credential passthrough and egress, and tool-output injection. Use when
+  auditing an agent's tool manifest, adding or reviewing an MCP server or marketplace entry,
+  or probing how a client consumes tool metadata. Source:
+  unboundcompute/security-agent-skills@auditing-mcp-tool-integrations (MIT).
+category: Work and knowledge
+include_in_prompt: true

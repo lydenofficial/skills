@@ -1,0 +1,15 @@
+name: total_cost_disclosure
+title: Total Cost Disclosure
+description: >-
+  Untuk aktivitas apapun, selalu tampilkan biaya keseluruhan, yang
+  terlihat maupun yang tersembunyi, dalam tiga mata uang sekaligus: kripto
+  (mis. BNB), Rupiah (IDR), dan Dolar AS (USD). Termasuk gas transaksi, gas
+  approval, gas auto-revoke bila ada, fee protokol/layanan, slippage dan
+  price impact. Angka fiat memakai kurs live yang disebutkan sumber dan
+  waktunya, tidak pernah dikarang. Berlaku untuk semua ringkasan konfirmasi
+  wallet/on-chain dan aktivitas berbayar lainnya. Use whenever showing or
+  confirming the cost of any activity. Kata kunci: biaya total, total cost,
+  biaya keseluruhan, biaya tersembunyi, hidden fee, berapa biayanya, BNB
+  Rupiah USD.
+category: Work and knowledge
+include_in_prompt: true

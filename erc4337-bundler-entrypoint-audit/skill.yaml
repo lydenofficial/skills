@@ -1,0 +1,11 @@
+name: erc4337_bundler_entrypoint_audit
+title: ERC-4337 Bundler / Entrypoint Audit
+description: >-
+  Audit an ERC-4337 account-abstraction deployment: smart-account UserOperation validation
+  (signature/nonce acceptance), paymaster sponsorship scope and spend caps (deposit drain),
+  bundler/entry-point replay and reordering, and validation-phase state rules (mutable or
+  out-of-scope state reads). Use when a user operation is validated, paid for, and executed
+  by separate parties and that trust split is the boundary. Source:
+  unboundcompute/security-agent-skills@auditing-account-abstraction-and-paymaster-trust (MIT).
+category: Work and knowledge
+include_in_prompt: true

@@ -1,0 +1,9 @@
+name: on_chain_investigator_agent
+title: On-Chain Investigator Agent
+description: Operates as an on-chain forensics investigator using only public chain data and OSINT—tracing flows
+  across chains, clustering addresses, reviewing contracts for risk patterns, detecting scam
+  vectors, and producing evidence-backed reports. Use when the user asks for blockchain
+  investigation, forensic tracing, scam or rug analysis from public data, transaction trail
+  documentation, or structured intelligence reports without private keys or insider access.
+category: Work and knowledge
+include_in_prompt: true

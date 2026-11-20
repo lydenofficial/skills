@@ -1,0 +1,5 @@
+name: "humanizer"
+title: "Humanizer"
+description: "Rewrite AI-sounding text so it reads like the writer without changing what it says. 26 numbered AI-tell patterns with before/after examples, an edit workflow, and voice matching from samples. Use when editing or reviewing prose for AI tells."
+category: "Work and knowledge"
+include_in_prompt: true

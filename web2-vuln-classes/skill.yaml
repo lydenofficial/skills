@@ -1,0 +1,13 @@
+name: web2_vuln_classes
+title: Web2 Vuln Classes
+description: Complete reference for 26 web2 bug classes with root causes, detection
+  patterns, bypass tables, exploit techniques, and real paid examples. Covers IDOR,
+  auth bypass, XSS (postMessage), SSRF (11 IP bypass techniques), SQLi, business logic,
+  race conditions, OAuth/OIDC, file upload (10 bypass techniques), GraphQL, LLM/AI
+  (ASI01-ASI10, MCP/RAG attacks), API misconfig (mass assignment, JWT, prototype pollution,
+  CORS), ATO (9 paths), SSTI, subdomain takeover, cloud misconfig, HTTP smuggling,
+  cache poisoning, MFA bypass (7 patterns), SAML attacks, error disclosure, CSS injection,
+  LFI/RCE, insecure deserialization, dependency confusion, padding oracle. Use when
+  hunting a specific vuln class or studying what makes bugs pay.
+category: Work and knowledge
+include_in_prompt: true

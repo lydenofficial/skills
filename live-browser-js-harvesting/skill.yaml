@@ -1,0 +1,9 @@
+name: live_browser_js_harvesting
+title: Live Browser JS Harvesting
+description: >-
+  Harvest JavaScript files from a target using the live browser when curl/httpx/katana get blocked
+  (403, WAF, bot protection), then feed the JS to jsmax for secret/endpoint extraction. Use when a target's
+  JS is unreachable by command-line fetchers but loads fine in a real browser. Custom skill (authored for
+  this setup); pairs with jsmax and web2-recon.
+category: Work and knowledge
+include_in_prompt: true

@@ -1,0 +1,14 @@
+name: bug_chaining
+title: Bug Chaining
+description: 'Standalone bug chaining skill — synthesized from omni-killchain
+  (including references/chaining-impact.md), triage-validation,
+  web2-vuln-classes, bug-bounty, and bb-methodology.
+  Covers the complete chaining mindset: 10-question filter, 15 proven chain patterns
+  (A–O) with payout data, escalation ladders per vuln class, conditional-chain table
+  (when a standalone bug needs a gadget), impact-writing rules, CVSS chain multipliers,
+  and 30-minute chain-or-move decision clock. Use when you have a low/medium finding
+  and want to know how to chain it to Critical, or when strategizing what to hunt
+  for maximum payout. Authorized testing only — bug bounty in-scope, pentest engagement,
+  or CTF.'
+category: Work and knowledge
+include_in_prompt: true

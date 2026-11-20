@@ -1,0 +1,13 @@
+name: johnwick
+title: Johnwick
+description: Use when the user says "run johnwick" / "/johnwick", hands you a bug-bounty
+  target or scope and wants the full manual+recon+automated hunt run end-to-end, or
+  asks to hunt a target with total coverage (every in-scope domain/subdomain, all
+  JS, signup+login, then exploit and validate). Self-contained long-running orchestrator
+  — recon, JS mining, auto-signup, and hunting for IDOR, SSRF, RCE, SSTI, XXE, SQLi,
+  request smuggling, cache poisoning, race conditions, OAuth/JWT/SAML ATO, GraphQL,
+  403-bypass, and mobile are all built in via internal reference files (each grounded
+  in disclosed paid HackerOne reports), with a zero-skip coverage ledger and a superpowers
+  verification gate between every phase.
+category: Work and knowledge
+include_in_prompt: true

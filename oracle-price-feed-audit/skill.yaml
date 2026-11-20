@@ -1,0 +1,11 @@
+name: oracle_price_feed_audit
+title: Oracle Price Feed Audit
+description: >-
+  Audits Solidity oracle integrations for vulnerabilities including missing stale price checks against
+  heartbeat intervals, missing L2 sequencer uptime validation, same heartbeat for multiple feeds, assuming
+  oracle precision, incorrect price feed addresses, unhandled oracle reverts, unhandled depeg events, oracle
+  min/max price issues during flash crashes, using manipulable slot0 prices, price feed direction confusion,
+  and missing circuit breaker checks. Use when auditing contracts that use Chainlink, TWAP, Pyth, or any
+  external price/data oracle. Source: auditmos/skills@audit-oracle v1.0 (MIT).
+category: Work and knowledge
+include_in_prompt: true

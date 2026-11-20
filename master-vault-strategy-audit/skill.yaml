@@ -1,0 +1,6 @@
+name: master_vault_strategy_audit
+title: Master Vault Strategy Audit
+description: >-
+  Audit Lista DAO MasterVault hub-and-spoke yield aggregator — strategy allocation, debt accounting, fees, async unstaking, and strategy migration. Use when auditing Lista MasterVault (contracts/masterVault/MasterVault.sol), its strategies (SnBnb/Bnbx/StkBnb/Ceros), or similar hub-and-spoke vaults.
+category: Work and knowledge
+include_in_prompt: true

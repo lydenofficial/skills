@@ -1,0 +1,9 @@
+name: slither_semgrep_solidity
+title: Slither + Semgrep Solidity
+description: >-
+  Static analysis sweep for Solidity — run Slither's 90+ built-in detectors, then Semgrep custom-pattern
+  rules (Decurity ruleset + project-specific rules), then triage. Use when sweeping thousands of lines of
+  Solidity for known vulnerability patterns before manual audit, or when a target codebase is too large to
+  read line-by-line first. Sources: andresdefi/cryptoskills@slither v1.0 and @semgrep-solidity v1.0 (Apache-2.0).
+category: Work and knowledge
+include_in_prompt: true

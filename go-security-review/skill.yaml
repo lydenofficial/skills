@@ -1,0 +1,11 @@
+name: go_security_review
+title: Go Security Review
+description: >-
+  Security best practices and vulnerability prevention for Golang — injection (SQL, command, XSS),
+  cryptography, path traversal, SSRF and HTTP security headers, cookies, secrets management, memory
+  safety, PII in logs, STRIDE/DREAD threat modeling, plus gosec SAST, race detection, and fuzz testing.
+  Apply when writing, reviewing, or auditing Go code for security, or when touching crypto, file or
+  network I/O, secrets, user input, or authentication. Use for security-focused audit of Go codebases
+  (e.g. Sei chain, Cosmos SDK) in bug bounty hunting. Source: samber/cc-skills-golang@golang-security v1.2.2 (MIT).
+category: Work and knowledge
+include_in_prompt: true

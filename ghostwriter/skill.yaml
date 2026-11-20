@@ -1,0 +1,5 @@
+name: "ghostwriter"
+title: "Ghostwriter"
+description: "Writes, rewrites, and critiques messages, posts, and docs as the user, in their own voice with machine tells stripped. Voice profiles per platform, a Learn mode that turns the user's corrections into profile rules, and a read-aloud check before returning. Use when writing anything as the user."
+category: "Work and knowledge"
+include_in_prompt: true

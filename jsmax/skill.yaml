@@ -1,0 +1,7 @@
+name: jsmax
+title: JSMax
+description: High-impact JavaScript analysis and exploitation engine. Use when you
+  have a list of JS URLs and need to extract secrets, endpoints, JWTs, MD5 hashes,
+  and critical data to prove high-impact vulnerabilities (PII dump, cloud takeover).
+category: Work and knowledge
+include_in_prompt: true

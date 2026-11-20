@@ -1,0 +1,12 @@
+name: uniswap_v4_hook_audit
+title: Uniswap v4 Hook Audit
+description: >-
+  Security-first Uniswap v4 hook audit — hook lifecycle and permissions risk matrix (all 14 hook
+  permissions), NoOp rug-pull attack via beforeSwapReturnDelta, delta accounting invariants
+  (sum of deltas == 0), caller/router verification (msg.sender is always PoolManager), reentrancy,
+  non-standard token hazards, gas budgets per callback, risk scoring (0-33), and pre-deployment audit
+  checklist. Use when auditing a Uniswap v4 hook or custom pool, or when asked about v4 hook security,
+  PoolManager, beforeSwap/afterSwap, or hook vulnerabilities. Source: uniswap/uniswap-ai@v4-security-foundations
+  v1.1.0 (official Uniswap Labs, MIT, 1.2K installs).
+category: Work and knowledge
+include_in_prompt: true

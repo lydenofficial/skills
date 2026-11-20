@@ -1,0 +1,11 @@
+name: oauth_oidc_deep_audit
+title: OAuth / OIDC Deep Audit
+description: >-
+  Deep audit of OAuth 2.0 / OpenID Connect integrations: federated assertion verification
+  (signature wrapping/stripping, audience/issuer/expiry, exact redirect_uri, state/nonce,
+  identity mapping), PKCE and device-code grant proof enforcement, and OAuth token
+  audience/issuer/scope trust. Use when reviewing a login that trusts an external IdP
+  assertion, a token endpoint redeeming authorization codes, or a resource server accepting
+  bearer tokens. Source: unboundcompute/security-agent-skills (MIT), three sub-skills bundled.
+category: Work and knowledge
+include_in_prompt: true

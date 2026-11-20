@@ -1,0 +1,6 @@
+name: rate_provider_oracle_audit
+title: Rate Provider Oracle Audit
+description: >-
+  Audit Balancer rate providers and yield-bearing-token exchange rates — getRate() manipulation, donation/inflation attacks, staleness, upgradeability, and registry review. Use when auditing Balancer pools with rate providers, ERC4626-based rate feeds, or any getRate()-style exchange-rate oracle.
+category: Work and knowledge
+include_in_prompt: true
